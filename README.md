@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-seda-ardiente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Piel de seda ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-seda-ardiente/) |
+| **Get License** | [Get a Licensing Quote for Piel de seda ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-seda-ardiente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `36f2449693cc1293b67371c4f290768076cedaf3ead95d48bffadc3c44db9dde` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `64136e093e197d4aeb4ab9f852c1ee6caa8180c0fb2bd4eab948598968e089a6` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
