@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Piel de seda ardiente |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-seda-ardiente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel de seda ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-seda-ardiente/) |
+| **Get License** | [Commercial Licensing for Piel de seda ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-seda-ardiente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Piel de seda ardiente, me quemas la mente,
-> Baby, tú y yo solos, un flow diferente.
-> De Madrid a Barna, rompiendo la calle,
-> No hay nadie que iguale tu fino detalle.
+> Tu piel de seda ardiente me llama sin hablar
+> Un fuego que no apaga la noche de la ciudad
+> Tus labios son veneno que quiero probar
+> Y en este ritmo lento te voy a devorar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
